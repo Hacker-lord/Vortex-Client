@@ -11,7 +11,7 @@ There is a most likely outdated installation file in the documents folder, But i
 
 ### Versions
 Vortex Client currently works for these versions:
-*STILL IN DEVELOPMENT. CHECK BACK SOON.
+* STILL IN DEVELOPMENT. CHECK BACK SOON.
 
 ### Modules
 Here is a list of the modules of the client.
