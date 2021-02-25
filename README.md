@@ -1,3 +1,6 @@
+
+# Why do you star this???? It is literally a blank repo with images saying it would be a client. IT ISNT A CLIENT IT GOT DISCONTINUED!!!!
+
 # Vortex-Client
 The Minecraft Vortex Client.
 
